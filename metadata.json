@@ -1,0 +1,6 @@
+{
+  "name": "A To Z PVC Ceiling and WPC Wall Panels",
+  "description": "Dynamic landing page for premium PVC ceilings, WPC wall panels, and exterior louvers in Visakhapatnam.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
